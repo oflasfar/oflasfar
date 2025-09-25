@@ -1,120 +1,228 @@
-# 👋 Hello, I'm Omar Farouk LASFAR
+<div align="center">
+  
+# 🌌 Welcome to My Digital Universe 🌌
 
-## 🎓 Étudiant en BUT Informatique | Développeur Passionné
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Omar+Farouk+LASFAR;Full-Stack+Developer+in+Progress;Future+Software+Engineer;Code+Enthusiast+%26+Problem+Solver)
 
-Je suis actuellement en 2ème année de BUT Informatique à l'IUT Robert Schuman de Strasbourg, à la recherche d'un stage en développement pour mettre en pratique mes compétences et contribuer à des projets innovants.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
 
 ---
 
-## 🚀 À Propos de Moi
+<div align="center">
+  
+### ✨ *"Transforming Ideas into Code, One Line at a Time"* ✨
 
-```javascript
-const omar = {
-    location: "📍 Strasbourg, France",
-    education: "🎓 BUT Informatique - IUT Robert Schuman",
-    currentFocus: "💻 Développement Full-Stack & POO",
-    lookingFor: "🔍 Stage en développement",
-    passions: ["Code", "Innovation", "Travail d'équipe", "Football ⚽"]
-};
+</div>
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🎭 **Who Am I?**
+
+```python
+class OmarFarouk:
+    def __init__(self):
+        self.name = "Omar Farouk LASFAR"
+        self.role = "Student & Future Developer"
+        self.location = "Strasbourg, France 🇫🇷"
+        self.university = "IUT Robert Schuman"
+        self.degree = "BUT Informatique (2nd Year)"
+        self.life_philosophy = "Code, Learn, Grow, Repeat"
+        
+    def currently_learning(self):
+        return ["Cloud Computing ☁️", "Machine Learning 🤖", "Advanced Algorithms 🧮"]
+    
+    def fun_fact(self):
+        return "I coach football and code with the same passion! ⚽💻"
 ```
 
 ---
 
-## 💻 Tech Stack
+<div align="center">
+  
+## 🛸 **Tech Arsenal** 🛸
 
-### Langages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-### Base de Données & Outils
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
 
----
+### 🎨 **Languages & Frameworks**
 
-## 🎯 Projets Phares
+<img src="https://skillicons.dev/icons?i=java,c,cs,python,javascript,php,react,html,css&theme=dark" />
 
-### 🏢 **Kalypso** - Simulation de Gestion d'Entreprise
-Développement d'une simulation complète de gestion stratégique incluant production et ventes.
+### 🛠️ **Tools & Technologies**
 
-### 🌐 **Khidmati** - Plateforme Web Complète
-Application web avec système de gestion des utilisateurs
-- **Technologies:** React, HTML, CSS, SQL
-- **Focus:** Architecture moderne et expérience utilisateur
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql,dotnet,aws&theme=dark" />
 
-### 🚒 **Gestion des Pompiers** - Application C#.NET
-Système de gestion du personnel et des missions pour caserne de pompiers
-- **Technologies:** C#, .NET Framework
-- **Fonctionnalités:** Gestion complète du personnel, planification des missions
+</div>
 
 ---
 
-## 📚 Certifications Récentes
+<div align="center">
+  
+## 🌟 **Epic Projects** 🌟
 
-- 🐍 **Python Programming** - Udemy (31.5h) - 2025
-- ☁️ **Introduction to Cloud Computing** - AWS - 2025
-- 🤖 **Machine Learning** - Google - 2025
-- 🔒 **Cybersécurité** - HP LIFE
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 🏢 **Kalypso**
+**Business Management Simulator**
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200">
+
+`Strategy` `Production` `Sales`
+
+*Complex enterprise simulation system*
+
+</td>
+<td width="50%" align="center">
+
+### 🌐 **Khidmati**
+**Full-Stack Web Platform**
+
+<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="200">
+
+`React` `SQL` `User Management`
+
+*Modern web application with complete user system*
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🚒 **Fire Station Manager**
+**C#.NET Management System**
+
+<img src="https://user-images.githubusercontent.com/74038190/238200622-e0d5e21f-6544-4545-8061-c5e9e2d90b5f.gif" width="200">
+
+`C#` `.NET` `Database`
+
+*Personnel & mission management solution*
+
+</td>
+<td width="50%" align="center">
+
+### 🚀 **More Coming Soon**
+**The Journey Continues...**
+
+<img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="200">
+
+`Innovation` `Learning` `Creating`
+
+*Building the future, one project at a time*
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌍 Langues
+<div align="center">
 
-- 🇫🇷 **Français** - Courant
-- 🇲🇦 **Arabe** - Natif
-- 🇬🇧 **Anglais** - B2
-- 🇪🇸 **Espagnol** - A2
-- 🇮🇹 **Italien** - Débutant
+## 🏆 **Achievements Unlocked** 🏆
 
----
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" /> **Python Programming Master** - 31.5 Hours Completed
 
-## 💫 Expériences & Valeurs
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" /> **Cloud Computing Explorer** - AWS Certified
 
-### ⚽ Entraîneur de Football (2020-2024)
-- Leadership et gestion d'équipe
-- Développement des compétences individuelles et collectives
-- Planification stratégique et motivation
+<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width="50" /> **Machine Learning Apprentice** - Google Certified
 
-### 🤝 Engagement Associatif (2023-2024)
-- Accompagnement de personnes âgées
-- Actions solidaires auprès d'enfants
-- Organisation d'actions pour les sans-abris
+<img src="https://user-images.githubusercontent.com/74038190/216122003-9f0d30aa-3c43-4bec-a4bb-4a17251e4ca5.png" width="50" /> **Cybersecurity Aware** - HP LIFE
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oflasfar&show_icons=true&theme=tokyonight)
+## 🌍 **Language Matrix** 🌍
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oflasfar&layout=compact&theme=tokyonight)
+```mermaid
+graph LR
+    A[🧠 Omar's Brain] --> B[🇲🇦 Arabic - Native]
+    A --> C[🇫🇷 French - Fluent]
+    A --> D[🇬🇧 English - B2]
+    A --> E[🇪🇸 Spanish - A2]
+    A --> F[🇮🇹 Italian - Learning]
+```
+
+</div>
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-<p align="left">
-<a href="mailto:Oflasfar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/omar-farouk-lasfar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="tel:+33744758655"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
+## 💫 **Life Beyond Code** 💫
+
+### ⚽ **Football Coach** (2020-2024)
+*Leading teams to victory, on and off the field*
+
+### 🤝 **Community Hero** (2023-2024)
+*Making a difference, one smile at a time*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-efa7e70e-2088-4990-a5f0-6d4f3c0e57fe.gif" width="300">
+
+</div>
 
 ---
 
-<p align="center">
-<i>💡 "Passionné par le développement et toujours en quête de nouveaux défis technologiques"</i>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=oflasfar&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
+## 📊 **GitHub Analytics** 📊
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oflasfar&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=oflasfar&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oflasfar&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎮 **Level Up With Me** 🎮
+
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+
+### 📮 **Reach Out to My Digital Realm** 📮
+
+**📧 Email:** `Oflasfar@gmail.com`  
+**💼 LinkedIn:** `omar-farouk-lasfar`  
+**📱 Phone:** `+33 7 44 75 86 55`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 🌟 *"Currently seeking an internship to transform passion into profession"* 🌟
+
+<img src="https://komarev.com/ghpvc/?username=oflasfar&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<div align="center">
+  
+**</>** with 💜 by Omar Farouk LASFAR
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%">
+
+</div>
