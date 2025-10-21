@@ -51,24 +51,54 @@ const omar = {
 ## 💼 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Kalypso</h3>
-<div align="center">
-<a href="#"><img src="https://img.shields.io/badge/Business%20Simulator-FF6B6B?style=for-the-badge" alt="Kalypso"/></a>
-<p><strong>Tech:</strong> Java | Strategy | Management</p>
-<p>📊 Complex enterprise simulation system</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Khidmati</h3>
-<div align="center">
-<a href="#"><img src="https://img.shields.io/badge/Web%20Platform-4ECDC4?style=for-the-badge" alt="Khidmati"/></a>
-<p><strong>Tech:</strong> React | SQL | Full-Stack</p>
-<p>🌐 Modern platform with user management</p>
-</div>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Kalypso</h3>
+      <div align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Business%20Simulator-FF6B6B?style=for-the-badge" alt="Kalypso"/>
+        </a>
+        <br/>
+        <p>
+          <strong>Tech :</strong> Java | Stratégie | Management
+          <br/>
+          <em>📊 Un système complexe de simulation d'entreprise pour l'analyse stratégique.</em>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Khidmati</h3>
+      <div align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Web%20Platform-4ECDC4?style=for-the-badge" alt="Khidmati"/>
+        </a>
+        <br/>
+        <p>
+          <strong>Tech :</strong> React | SQL | Full-Stack
+          <br/>
+          <em>🌐 Une plateforme moderne de mise en relation avec gestion d'utilisateurs.</em>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Jeu d'Audit</h3>
+      <div align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Serious%20Game-5D6D7E?style=for-the-badge" alt="Jeu d'Audit"/>
+        </a>
+        <br/>
+        <p>
+          <strong>Tech :</strong> JavaScript | HTML5 Canvas | Pédagogie
+          <br/>
+          <em>🎮 Un jeu interactif conçu pour l'apprentissage des principes fondamentaux de l'audit.</em>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      </td>
+  </tr>
 </table>
 
 ## 📈 GitHub Stats
