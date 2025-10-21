@@ -48,7 +48,7 @@ const omar = {
 
 </div>
 
-## 💼 Featured Projects
+## 💼 Projets Principaux
 
 <table>
   <tr>
@@ -86,11 +86,11 @@ const omar = {
       <h3 align="center">Jeu d'Audit</h3>
       <div align="center">
         <a href="#">
-          <img src="https://img.shields.io/badge/Serious%20Game-5D6D7E?style=for-the-badge" alt="Jeu d'Audit"/>
+          <img src="https://img.shields.io/badge/Serious%20Game-478CB0?style=for-the-badge&logo=godotengine" alt="Jeu d'Audit"/>
         </a>
         <br/>
         <p>
-          <strong>Tech :</strong> JavaScript | HTML5 Canvas | Pédagogie
+          <strong>Tech :</strong> Godot | GDScript | Game Development
           <br/>
           <em>🎮 Un jeu interactif conçu pour l'apprentissage des principes fondamentaux de l'audit.</em>
         </p>
