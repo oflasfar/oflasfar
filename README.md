@@ -60,7 +60,7 @@ const omar = {
         </a>
         <br/>
         <p>
-          <strong>Tech :</strong> Java | Stratégie | Management
+          <strong>Tech :</strong> Stratégie | Management
           <br/>
           <em>📊 Un système complexe de simulation d'entreprise pour l'analyse stratégique.</em>
         </p>
