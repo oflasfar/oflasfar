@@ -99,6 +99,41 @@ const omar = {
     <td width="50%" valign="top">
       </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Jeu d'Audit</h3>
+      <div align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Serious%20Game-478CB0?style=for-the-badge&logo=godotengine" alt="Jeu d'Audit"/>
+        </a>
+        <br/>
+        <p>
+          <strong>Tech :</strong> Godot | GDScript | Game Development
+          <br/>
+          <em><tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Bataille Navale</h3>
+      <div align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Serious%20Game-478CB0?style=for-the-badge&logo=godotengine" alt="Bataille Navale"/>
+        </a>
+        <br/>
+        <p>
+          <strong>Tech :</strong> Java | Swing
+          <br/>
+          <em>🎮 Un jeu interactif conçu pour l'apprentissage des principes fondamentaux de l'audit.</em>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      </td>
+  </tr></em>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      </td>
+  </tr>
 </table>
 
 ## 📈 GitHub Stats
