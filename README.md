@@ -51,91 +51,67 @@ const omar = {
 ## 💼 Projets Principaux
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Kalypso</h3>
-      <div align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Business%20Simulator-FF6B6B?style=for-the-badge" alt="Kalypso"/>
-        </a>
-        <br/>
-        <p>
-          <strong>Tech :</strong> Stratégie | Management
-          <br/>
-          <em>📊 Un système complexe de simulation d'entreprise pour l'analyse stratégique.</em>
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Khidmati</h3>
-      <div align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Web%20Platform-4ECDC4?style=for-the-badge" alt="Khidmati"/>
-        </a>
-        <br/>
-        <p>
-          <strong>Tech :</strong> React | SQL | Full-Stack
-          <br/>
-          <em>🌐 Une plateforme moderne de mise en relation avec gestion d'utilisateurs.</em>
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Jeu d'Audit</h3>
-      <div align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Serious%20Game-478CB0?style=for-the-badge&logo=godotengine" alt="Jeu d'Audit"/>
-        </a>
-        <br/>
-        <p>
-          <strong>Tech :</strong> Godot | GDScript | Game Development
-          <br/>
-          <em>🎮 Un jeu interactif conçu pour l'apprentissage des principes fondamentaux de l'audit.</em>
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Jeu d'Audit</h3>
-      <div align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Serious%20Game-478CB0?style=for-the-badge&logo=godotengine" alt="Jeu d'Audit"/>
-        </a>
-        <br/>
-        <p>
-          <strong>Tech :</strong> Godot | GDScript | Game Development
-          <br/>
-          <em><tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Bataille Navale</h3>
-      <div align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Serious%20Game-478CB0?style=for-the-badge&logo=godotengine" alt="Bataille Navale"/>
-        </a>
-        <br/>
-        <p>
-          <strong>Tech :</strong> Java | Swing
-          <br/>
-          <em>🎮 Un jeu interactif conçu pour l'apprentissage des principes fondamentaux de l'audit.</em>
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      </td>
-  </tr></em>
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      </td>
-  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Kalypso</h3>
+      <div align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Business%20Simulator-FF6B6B?style=for-the-badge" alt="Kalypso"/>
+        </a>
+        <br/>
+        <p>
+          <strong>Tech :</strong> Stratégie | Management
+          <br/>
+          <em>📊 Un système complexe de simulation d'entreprise pour l'analyse stratégique.</em>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Khidmati</h3>
+      <div align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Web%20Platform-4ECDC4?style=for-the-badge" alt="Khidmati"/>
+        </a>
+        <br/>
+        <p>
+          <strong>Tech :</strong> React | SQL | Full-Stack
+          <br/>
+          <em>🌐 Une plateforme moderne de mise en relation avec gestion d'utilisateurs.</em>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Jeu d'Audit</h3>
+      <div align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Serious%20Game-478CB0?style=for-the-badge&logo=godotengine" alt="Jeu d'Audit"/>
+        </a>
+        <br/>
+        <p>
+          <strong>Tech :</strong> Godot | GDScript | Game Development
+          <br/>
+          <em>🎮 Un jeu interactif conçu pour l'apprentissage des principes fondamentaux de l'audit.</em>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Bataille Navale</h3>
+      <div align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Desktop%20Game-00599C?style=for-the-badge&logo=java" alt="Bataille Navale"/>
+        </a>
+        <br/>
+        <p>
+          <strong>Tech :</strong> Java | MVC | Swing | Observer Pattern
+          <br/>
+          <em>🚢 Mise en œuvre du jeu de Bataille Navale en Java, utilisant l'architecture MVC et Swing.</em>
+        </p>
+      </div>
+    </td>
+  </tr>
 </table>
-
 ## 📈 GitHub Stats
 
 <div align="center">
