@@ -55,94 +55,22 @@ Problem Solving • Team Collaboration • Agile Methodologies • Technical Doc
 
 ## 🔨 What I'm Currently Working On
 
-- 🌐 Developing **Khidmati**, a full-stack platform connecting clients and service providers
-- 📚 Exploring machine learning algorithms
-- 🤝 Open to collaborate on innovative web and cloud projects
+- 🎮 Building the **Jeu d’Audit (T3)** in Godot  
+  An interactive serious game for learning auditing concepts with multi-level scenarios and mini-games.
 
-## 💼 Main Projects
+- 🚢 Creating a **Bataille Navale** game in Java (MVC)  
+  Desktop game with Swing UI, implementing Observer pattern for real-time updates and single/multiplayer modes.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Jeu d'Audit</h3>
-      <div align="center">
-        <a href="https://github.com/oflasfar/jeu-audit">
-          <img src="https://img.shields.io/badge/Serious%20Game-478CB0?style=for-the-badge&logo=godotengine" alt="Jeu d'Audit"/>
-        </a>
-        <br/><br/>
-        <p>
-          <strong>Tech:</strong> Godot | GDScript | Game Development
-          <br/>
-          <em>🎮 An interactive game designed for learning the fundamentals of auditing.</em>
-          <br/><br/>
-          • Multi-level progression system<br/>
-          • Real-world audit scenarios and cases<br/>
-          • Interactive tutorials and feedback<br/>
-          • Educational mini-games
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Bataille Navale</h3>
-      <div align="center">
-        <a href="https://github.com/oflasfar/bataille-navale">
-          <img src="https://img.shields.io/badge/Desktop%20Game-00599C?style=for-the-badge&logo=java" alt="Bataille Navale"/>
-        </a>
-        <br/><br/>
-        <p>
-          <strong>Tech:</strong> Java | MVC | Swing | Observer Pattern
-          <br/>
-          <em>🚢 Implementation of the Battleship game in Java with advanced design patterns.</em>
-          <br/><br/>
-          • Clean MVC architecture<br/>
-          • Observer pattern for real-time updates<br/>
-          • Graphical interface with Swing<br/>
-          • Single and multiplayer modes
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Kalypso</h3>
-      <div align="center">
-        <a href="https://github.com/oflasfar/kalypso">
-          <img src="https://img.shields.io/badge/Business%20Simulator-FF6B6B?style=for-the-badge" alt="Kalypso"/>
-        </a>
-        <br/><br/>
-        <p>
-          <strong>Tech:</strong> Java | Strategy | Management
-          <br/>
-          <em>📊 A complex business simulation system for strategic analysis and decision-making.</em>
-          <br/><br/>
-          • Resource management simulation<br/>
-          • Strategic decision algorithms<br/>
-          • Performance analytics dashboard<br/>
-          • Multi-scenario testing
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Khidmati</h3>
-      <div align="center">
-        <a href="https://github.com/oflasfar/khidmati">
-          <img src="https://img.shields.io/badge/Web%20Platform-4ECDC4?style=for-the-badge" alt="Khidmati"/>
-        </a>
-        <br/><br/>
-        <p>
-          <strong>Tech:</strong> React | Node.js | MySQL | RESTful API
-          <br/>
-          <em>🌐 A modern platform for connecting clients and service providers.</em>
-          <br/><br/>
-          • User authentication & profiles<br/>
-          • Real-time service booking system<br/>
-          • Rating and review system<br/>
-          • Responsive design for all devices
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+- 🌐 Developing **Khidmati**, a full-stack platform connecting clients and service providers  
+  Features user authentication, real-time service booking, reviews, and a responsive design.
+
+## 📌 Featured Repositories (Pinned)
+
+- 🎲 [Jeu de Yams](https://github.com/oflasfar/Jeux-de-yams-P11) — Full-stack dice game with scoring logic, responsive interface, and REST API backend.  
+- 🚒 [Caserne de Pompiers](https://github.com/oflasfar/Application-Windows-Forms-Caserne-des-Pompiers) — C# Windows Forms application for managing fire station teams, interventions, and operations.  
+- 🐉 [Jeu du Dragon](https://github.com/oflasfar/Jeu-Dragon-Java) — Adventure game in Java with turn-based combat, multiple characters, and fully object-oriented architecture.
+- 🌐 [Projet Réseau C](https://github.com/oflasfar/Projet-Reseau-C) — Network simulation in C with frame sending between devices, Ethernet handling, MAC tables, and switch forwarding logic.
+
 
 ## 📈 GitHub Stats
 
